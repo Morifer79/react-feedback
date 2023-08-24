@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const SectionWrapper = styled.section`
   padding: 50px 30px;
 
-  width: 30%;
+  width: 50%;
   color: white;
   border-radius: 18px;
 
